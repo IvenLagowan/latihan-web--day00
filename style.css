@@ -1,0 +1,26 @@
+*{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+h1{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    text-align: center;
+}
+p{
+    color: brown;
+}
+h2{
+    color: blue;
+    shape-margin: 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
